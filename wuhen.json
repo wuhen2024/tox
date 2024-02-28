@@ -2,439 +2,439 @@
     "storeHouse":[
         {
                 "sourceName":"1号仓库",
-                "sourceUrl":"clan://localhost/tvbox/接口禁止贩卖/接口禁止贩卖.json"
+                "sourceUrl":"clan://localhost/tox/ttox/接口禁止贩卖/接口禁止贩卖.json"
         },
         {
                 "sourceName":"2号仓库",
-                "sourceUrl":"clan://localhost/tvbox/zzz1/zzz1.json"
+                "sourceUrl":"clan://localhost/tox/ttox/zzz1/zzz1.json"
         },
         {
                 "sourceName":"3号仓库",
-                "sourceUrl":"clan://localhost/tvbox/ysc/ysc.json"
+                "sourceUrl":"clan://localhost/tox/ttox/ysc/ysc.json"
         },
         {
                 "sourceName":"4号仓库",
-                "sourceUrl":"clan://localhost/tvbox/yyzq4k/yyzq4k.json"
+                "sourceUrl":"clan://localhost/tox/ttox/yyzq4k/yyzq4k.json"
         },
         {
                 "sourceName":"5号仓库",
-                "sourceUrl":"clan://localhost/tvbox/XYQTVBox/XYQTVBox.json"
+                "sourceUrl":"clan://localhost/tox/ttox/XYQtox/XYQtox.json"
         },
         {
                 "sourceName":"6号仓库",
-                "sourceUrl":"clan://localhost/tvbox/yMNq26ND/yMNq26ND.json"
+                "sourceUrl":"clan://localhost/tox/yMNq26ND/yMNq26ND.json"
         },
         {
                 "sourceName":"7号仓库",
-                "sourceUrl":"clan://localhost/tvbox/ts/ts.json"
+                "sourceUrl":"clan://localhost/tox/ts/ts.json"
         },
         {
                 "sourceName":"8号仓库",
-                "sourceUrl":"clan://localhost/tvbox/xpg/xpg.json"
+                "sourceUrl":"clan://localhost/tox/xpg/xpg.json"
         },
         {
                 "sourceName":"9号仓库",
-                "sourceUrl":"clan://localhost/tvbox/TVBOX盒子/TVBOX盒子.json"
+                "sourceUrl":"clan://localhost/tox/tox盒子/tox盒子.json"
         },
         {
                 "sourceName":"10号仓库",
-                "sourceUrl":"clan://localhost/tvbox/XC/XC.json"
+                "sourceUrl":"clan://localhost/tox/XC/XC.json"
         },
         {
                 "sourceName":"11号仓库",
-                "sourceUrl":"clan://localhost/tvbox/tvbox/tvbox.json"
+                "sourceUrl":"clan://localhost/tox/tox/tox.json"
         },
         {
                 "sourceName":"12号仓库",
-                "sourceUrl":"clan://localhost/tvbox/sbPpDm9G/sbPpDm9G.json"
+                "sourceUrl":"clan://localhost/tox/sbPpDm9G/sbPpDm9G.json"
         },
         {
                 "sourceName":"13号仓库",
-                "sourceUrl":"clan://localhost/tvbox/warehouse/warehouse.json"
+                "sourceUrl":"clan://localhost/tox/warehouse/warehouse.json"
         },
         {
                 "sourceName":"14号仓库",
-                "sourceUrl":"clan://localhost/tvbox/pz/pz.json"
+                "sourceUrl":"clan://localhost/tox/pz/pz.json"
         },
         {
                 "sourceName":"15号仓库",
-                "sourceUrl":"clan://localhost/tvbox/ml/ml.json"
+                "sourceUrl":"clan://localhost/tox/ml/ml.json"
         },
         {
                 "sourceName":"16号仓库",
-                "sourceUrl":"clan://localhost/tvbox/n/n.json"
+                "sourceUrl":"clan://localhost/tox/n/n.json"
         },
         {
                 "sourceName":"17号仓库",
-                "sourceUrl":"clan://localhost/tvbox/ok/ok.json"
+                "sourceUrl":"clan://localhost/tox/ok/ok.json"
         },
         {
                 "sourceName":"18号仓库",
-                "sourceUrl":"clan://localhost/tvbox/ProfessionalEdition/ProfessionalEdition.json"
+                "sourceUrl":"clan://localhost/tox/ProfessionalEdition/ProfessionalEdition.json"
         },
         {
                 "sourceName":"19号仓库",
-                "sourceUrl":"clan://localhost/tvbox/py/py.json"
+                "sourceUrl":"clan://localhost/tox/py/py.json"
         },
         {
                 "sourceName":"20号仓库",
-                "sourceUrl":"clan://localhost/tvbox/mao6/mao6.json"
+                "sourceUrl":"clan://localhost/tox/mao6/mao6.json"
         },
         {
                 "sourceName":"21号仓库",
-                "sourceUrl":"clan://localhost/tvbox/m/m.json"
+                "sourceUrl":"clan://localhost/tox/m/m.json"
         },
         {
                 "sourceName":"22号仓库",
-                "sourceUrl":"clan://localhost/tvbox/GG51y0JG/GG51y0JG.json"
+                "sourceUrl":"clan://localhost/tox/GG51y0JG/GG51y0JG.json"
         },
         {
                 "sourceName":"23号仓库",
-                "sourceUrl":"clan://localhost/tvbox/fty/fty.json"
+                "sourceUrl":"clan://localhost/tox/fty/fty.json"
         },
         {
                 "sourceName":"24号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoyunxingriji/duoduoyunxingriji.json"
+                "sourceUrl":"clan://localhost/tox/duoduoyunxingriji/duoduoyunxingriji.json"
         },
         {
                 "sourceName":"25号仓库",
-                "sourceUrl":"clan://localhost/tvbox/fast/fast.json"
+                "sourceUrl":"clan://localhost/tox/fast/fast.json"
         },
         {
                 "sourceName":"26号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoyunshuche/duoduoyunshuche.json"
+                "sourceUrl":"clan://localhost/tox/duoduoyunshuche/duoduoyunshuche.json"
         },
         {
                 "sourceName":"27号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoyeyu/duoduoyeyu.json"
+                "sourceUrl":"clan://localhost/tox/duoduoyeyu/duoduoyeyu.json"
         },
         {
                 "sourceName":"28号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoyemaozi/duoduoyemaozi.json"
+                "sourceUrl":"clan://localhost/tox/duoduoyemaozi/duoduoyemaozi.json"
         },
         {
                 "sourceName":"29号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoxingchen/duoduoxingchen.json"
+                "sourceUrl":"clan://localhost/tox/duoduoxingchen/duoduoxingchen.json"
         },
         {
                 "sourceName":"30号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoxiaosa/duoduoxiaosa.json"
+                "sourceUrl":"clan://localhost/tox/duoduoxiaosa/duoduoxiaosa.json"
         },
         {
                 "sourceName":"31号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoxiaoma/duoduoxiaoma.json"
+                "sourceUrl":"clan://localhost/tox/duoduoxiaoma/duoduoxiaoma.json"
         },
         {
                 "sourceName":"32号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoxiaomi/duoduoxiaomi.json"
+                "sourceUrl":"clan://localhost/tox/duoduoxiaomi/duoduoxiaomi.json"
         },
         {
                 "sourceName":"33号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoxiangyaqing/duoduoxiangyaqing.json"
+                "sourceUrl":"clan://localhost/tox/duoduoxiangyaqing/duoduoxiangyaqing.json"
         },
         {
                 "sourceName":"34号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoxiaohu/duoduoxiaohu.json"
+                "sourceUrl":"clan://localhost/tox/duoduoxiaohu/duoduoxiaohu.json"
         },
         {
                 "sourceName":"35号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduowuyi/duoduowuyi.json"
+                "sourceUrl":"clan://localhost/tox/duoduowuyi/duoduowuyi.json"
         },
         {
                 "sourceName":"36号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduowuai/duoduowuai.json"
+                "sourceUrl":"clan://localhost/tox/duoduowuai/duoduowuai.json"
         },
         {
                 "sourceName":"37号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduowanda/duoduowanda.json"
+                "sourceUrl":"clan://localhost/tox/duoduowanda/duoduowanda.json"
         },
         {
                 "sourceName":"38号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoshenxian/duoduoshenxian.json"
+                "sourceUrl":"clan://localhost/tox/duoduoshenxian/duoduoshenxian.json"
         },
         {
                 "sourceName":"39号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduotaipingyang/duoduotaipingyang.json"
+                "sourceUrl":"clan://localhost/tox/duoduotaipingyang/duoduotaipingyang.json"
         },
         {
                 "sourceName":"40号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoPG/duoduoPG.json"
+                "sourceUrl":"clan://localhost/tox/duoduoPG/duoduoPG.json"
         },
         {
                 "sourceName":"41号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoRay/duoduoRay.json"
+                "sourceUrl":"clan://localhost/tox/duoduoRay/duoduoRay.json"
         },
         {
                 "sourceName":"42号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoqiaoji/duoduoqiaoji.json"
+                "sourceUrl":"clan://localhost/tox/duoduoqiaoji/duoduoqiaoji.json"
         },
         {
                 "sourceName":"43号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoouge/duoduoouge.json"
+                "sourceUrl":"clan://localhost/tox/duoduoouge/duoduoouge.json"
         },
         {
                 "sourceName":"44号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduonanfeng/duoduonanfeng.json"
+                "sourceUrl":"clan://localhost/tox/duoduonanfeng/duoduonanfeng.json"
         },
         {
                 "sourceName":"45号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduomiaoyingshi/duoduomiaoyingshi.json"
+                "sourceUrl":"clan://localhost/tox/duoduomiaoyingshi/duoduomiaoyingshi.json"
         },
         {
                 "sourceName":"46号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduolielang/duoduolielang.json"
+                "sourceUrl":"clan://localhost/tox/duoduolielang/duoduolielang.json"
         },
         {
                 "sourceName":"47号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduolaoliubei/duoduolaoliubei.json"
+                "sourceUrl":"clan://localhost/tox/duoduolaoliubei/duoduolaoliubei.json"
         },
         {
                 "sourceName":"48号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduokandianying/duoduokandianying.json"
+                "sourceUrl":"clan://localhost/tox/duoduokandianying/duoduokandianying.json"
         },
         {
                 "sourceName":"49号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduokaixin/duoduokaixin.json"
+                "sourceUrl":"clan://localhost/tox/duoduokaixin/duoduokaixin.json"
         },
         {
                 "sourceName":"50号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduohechengchaxiu/duoduohechengchaxiu.json"
+                "sourceUrl":"clan://localhost/tox/duoduohechengchaxiu/duoduohechengchaxiu.json"
         },
         {
                 "sourceName":"51号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduojunlao/duoduojunlao.json"
+                "sourceUrl":"clan://localhost/tox/duoduojunlao/duoduojunlao.json"
         },
         {
                 "sourceName":"52号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduogaotianliuyun/duoduogaotianliuyun.json"
+                "sourceUrl":"clan://localhost/tox/duoduogaotianliuyun/duoduogaotianliuyun.json"
         },
         {
                 "sourceName":"53号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduofenxiangzhe/duoduofenxiangzhe.json"
+                "sourceUrl":"clan://localhost/tox/duoduofenxiangzhe/duoduofenxiangzhe.json"
         },
         {
                 "sourceName":"54号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduofeimao/duoduofeimao.json"
+                "sourceUrl":"clan://localhost/tox/duoduofeimao/duoduofeimao.json"
         },
         {
                 "sourceName":"55号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduoDlaomogai/duoduoDlaomogai.json"
+                "sourceUrl":"clan://localhost/tox/duoduoDlaomogai/duoduoDlaomogai.json"
         },
         {
                 "sourceName":"56号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduodaozhang/duoduodaozhang.json"
+                "sourceUrl":"clan://localhost/tox/duoduodaozhang/duoduodaozhang.json"
         },
         {
                 "sourceName":"57号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduochunying/duoduochunying.json"
+                "sourceUrl":"clan://localhost/tox/duoduochunying/duoduochunying.json"
         },
         {
                 "sourceName":"58号仓库",
-                "sourceUrl":"clan://localhost/tvbox/duoduobuliangshuai/duoduobuliangshuai.json"
+                "sourceUrl":"clan://localhost/tox/duoduobuliangshuai/duoduobuliangshuai.json"
         },
         {
                 "sourceName":"59号仓库",
-                "sourceUrl":"clan://localhost/tvbox/ck/ck.json"
+                "sourceUrl":"clan://localhost/tox/ck/ck.json"
         },
         {
                 "sourceName":"60号仓库",
-                "sourceUrl":"clan://localhost/tvbox/DC/DC.json"
+                "sourceUrl":"clan://localhost/tox/DC/DC.json"
         },
         {
                 "sourceName":"61号仓库",
-                "sourceUrl":"clan://localhost/tvbox/DEMO/DEMO.json"
+                "sourceUrl":"clan://localhost/tox/DEMO/DEMO.json"
         },
         {
                 "sourceName":"62号仓库",
-                "sourceUrl":"clan://localhost/tvbox/candymuj1/candymuj1.json"
+                "sourceUrl":"clan://localhost/tox/candymuj1/candymuj1.json"
         },
         {
                 "sourceName":"63号仓库",
-                "sourceUrl":"clan://localhost/tvbox/c/c.json"
+                "sourceUrl":"clan://localhost/tox/c/c.json"
         },
         {
                 "sourceName":"64号仓库",
-                "sourceUrl":"clan://localhost/tvbox/bp.tvbox/bp.tvbox.json"
+                "sourceUrl":"clan://localhost/tox/bp.tox/bp.tox.json"
         },
         {
                 "sourceName":"65号仓库",
-                "sourceUrl":"clan://localhost/tvbox/5NHaxyGR/5NHaxyGR.json"
+                "sourceUrl":"clan://localhost/tox/5NHaxyGR/5NHaxyGR.json"
         },
         {
                 "sourceName":"66号仓库",
-                "sourceUrl":"clan://localhost/tvbox/4k/4k.json"
+                "sourceUrl":"clan://localhost/tox/4k/4k.json"
         },
         {
                 "sourceName":"67号仓库",
-                "sourceUrl":"clan://localhost/tvbox/0825/0825.json"
+                "sourceUrl":"clan://localhost/tox/0825/0825.json"
         },
         {
                 "sourceName":"68号仓库",
-                "sourceUrl":"clan://localhost/tvbox/0827/0827.json"
+                "sourceUrl":"clan://localhost/tox/0827/0827.json"
         },
         {
                 "sourceName":"69号仓库",
-                "sourceUrl":"clan://localhost/tvbox/1012/1012.json"
+                "sourceUrl":"clan://localhost/tox/1012/1012.json"
         },
         {
                 "sourceName":"70号仓库",
-                "sourceUrl":"clan://localhost/tvbox/079e7bb5c863b4ba37bc07a712188423/079e7bb5c863b4ba37bc07a712188423.json"
+                "sourceUrl":"clan://localhost/tox/079e7bb5c863b4ba37bc07a712188423/079e7bb5c863b4ba37bc07a712188423.json"
         },
         {
                 "sourceName":"71号仓库",
-                "sourceUrl":"clan://localhost/tvbox/0110/0110.json"
+                "sourceUrl":"clan://localhost/tox/0110/0110.json"
         },
         {
                 "sourceName":"72号仓库",
-                "sourceUrl":"clan://localhost/tvbox/01/01.json"
+                "sourceUrl":"clan://localhost/tox/01/01.json"
         },
         {
                 "sourceName":"73号仓库",
-                "sourceUrl":"clan://localhost/tvbox/0/0.json"
+                "sourceUrl":"clan://localhost/tox/0/0.json"
         },
         {
                 "sourceName":"74号仓库",
-                "sourceUrl":"clan://localhost/tvbox/001/001.json"
+                "sourceUrl":"clan://localhost/tox/001/001.json"
         },
         {
                 "sourceName":"75号仓库",
-                "sourceUrl":"clan://localhost/tvbox/a/a.json"
+                "sourceUrl":"clan://localhost/tox/a/a.json"
         },
         {
                 "sourceName":"76号仓库",
-                "sourceUrl":"clan://localhost/tvbox/namegen/namegen.json"
+                "sourceUrl":"clan://localhost/tox/namegen/namegen.json"
         },
         {
                 "sourceName":"77号仓库",
-                "sourceUrl":"clan://localhost/tvbox/FongMi/FongMi.json"
+                "sourceUrl":"clan://localhost/tox/FongMi/FongMi.json"
         },
         {
                 "sourceName":"78号仓库",
-                "sourceUrl":"clan://localhost/tvbox/app/app.json"
+                "sourceUrl":"clan://localhost/tox/app/app.json"
         },
         {
                 "sourceName":"79号仓库",
-                "sourceUrl":"clan://localhost/tvbox/candymuj/candymuj.json"
+                "sourceUrl":"clan://localhost/tox/candymuj/candymuj.json"
         },
         {
                 "sourceName":"80号仓库",
-                "sourceUrl":"clan://localhost/tvbox/X/X.json"
+                "sourceUrl":"clan://localhost/tox/X/X.json"
         },
         {
                 "sourceName":"81号仓库",
-                "sourceUrl":"clan://localhost/tvbox/XJ/XJ.json"
+                "sourceUrl":"clan://localhost/tox/XJ/XJ.json"
         },
         {
                 "sourceName":"82号仓库",
-                "sourceUrl":"clan://localhost/tvbox/XX/XX.json"
+                "sourceUrl":"clan://localhost/tox/XX/XX.json"
         },
         {
                 "sourceName":"83号仓库",
-                "sourceUrl":"clan://localhost/tvbox/YZ/YZ.json"
+                "sourceUrl":"clan://localhost/tox/YZ/YZ.json"
         },
         {
                 "sourceName":"84号仓库",
-                "sourceUrl":"clan://localhost/tvbox/tgdc/tgdc.json"
+                "sourceUrl":"clan://localhost/tox/tgdc/tgdc.json"
         },
         {
                 "sourceName":"85号仓库",
-                "sourceUrl":"clan://localhost/tvbox/tvlib/tvlib.json"
+                "sourceUrl":"clan://localhost/tox/tvlib/tvlib.json"
         },
         {
                 "sourceName":"86号仓库",
-                "sourceUrl":"clan://localhost/tvbox/miao/miao.json"
+                "sourceUrl":"clan://localhost/tox/miao/miao.json"
         },
         {
                 "sourceName":"87号仓库",
-                "sourceUrl":"clan://localhost/tvbox/tv/tv.json"
+                "sourceUrl":"clan://localhost/tox/tv/tv.json"
         },
         {
                 "sourceName":"88号仓库",
-                "sourceUrl":"clan://localhost/tvbox/pj/pj.json"
+                "sourceUrl":"clan://localhost/tox/pj/pj.json"
         },
         {
                 "sourceName":"89号仓库",
-                "sourceUrl":"clan://localhost/tvbox/urls/urls.json"
+                "sourceUrl":"clan://localhost/tox/urls/urls.json"
         },
         {
                 "sourceName":"90号仓库",
-                "sourceUrl":"clan://localhost/tvbox/%E5%A4%9A%E4%BB%93/%E5%A4%9A%E4%BB%93.json"
+                "sourceUrl":"clan://localhost/tox/%E5%A4%9A%E4%BB%93/%E5%A4%9A%E4%BB%93.json"
         },
         {
                 "sourceName":"91号仓库",
-                "sourceUrl":"clan://localhost/tvbox/%E5%A4%87%E7%94%A8/%E5%A4%87%E7%94%A8.json"
+                "sourceUrl":"clan://localhost/tox/%E5%A4%87%E7%94%A8/%E5%A4%87%E7%94%A8.json"
         },
         {
                 "sourceName":"92号仓库",
-                "sourceUrl":"clan://localhost/tvbox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json"
+                "sourceUrl":"clan://localhost/tox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json"
         },
         {
                 "sourceName":"93号仓库",
-                "sourceUrl":"clan://localhost/tvbox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json"
+                "sourceUrl":"clan://localhost/tox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json"
         },
         {
                 "sourceName":"94号仓库",
-                "sourceUrl":"clan://localhost/tvbox/%E4%B8%80%E6%9C%A8cs/%E4%B8%80%E6%9C%A8cs.json"
+                "sourceUrl":"clan://localhost/tox/%E4%B8%80%E6%9C%A8cs/%E4%B8%80%E6%9C%A8cs.json"
         },
         {
                 "sourceName":"95号仓库",
-                "sourceUrl":"clan://localhost/tvbox/adult-2/adult-2.json"
+                "sourceUrl":"clan://localhost/tox/adult-2/adult-2.json"
         },
         {
                 "sourceName":"96号仓库",
-                "sourceUrl":"clan://localhost/tvbox/adult-1/adult-1.json"
+                "sourceUrl":"clan://localhost/tox/adult-1/adult-1.json"
         },
         {
                 "sourceName":"97号仓库",
-                "sourceUrl":"clan://localhost/tvbox/js/js.json"
+                "sourceUrl":"clan://localhost/tox/js/js.json"
         },
         {
                 "sourceName":"98号仓库",
-                "sourceUrl":"clan://localhost/tvbox/dianshi/dianshi.json"
+                "sourceUrl":"clan://localhost/tox/dianshi/dianshi.json"
         },
         {
                 "sourceName":"99号仓库",
-                "sourceUrl":"clan://localhost/tvbox/XYQ/XYQ.json"
+                "sourceUrl":"clan://localhost/tox/XYQ/XYQ.json"
         },
         {
                 "sourceName":"100号仓库",
-                "sourceUrl":"clan://localhost/tvbox/XBPQ/XBPQ.json"
+                "sourceUrl":"clan://localhost/tox/XBPQ/XBPQ.json"
         },
         {
                 "sourceName":"101号仓库",
-                "sourceUrl":"clan://localhost/tvbox/9918/9918.json"
+                "sourceUrl":"clan://localhost/tox/9918/9918.json"
         },
         {
                 "sourceName":"102号仓库",
-                "sourceUrl":"clan://localhost/tvbox/0826/0826.json"
+                "sourceUrl":"clan://localhost/tox/0826/0826.json"
         },
         {
                 "sourceName":"103号仓库",
-                "sourceUrl":"clan://localhost/tvbox/0822/0822.json"
+                "sourceUrl":"clan://localhost/tox/0822/0822.json"
         },
         {
                 "sourceName":"104号仓库",
-                "sourceUrl":"clan://localhost/tvbox/0821/0821.json"
+                "sourceUrl":"clan://localhost/tox/0821/0821.json"
         },
         {
                 "sourceName":"105号仓库",
-                "sourceUrl":"clan://localhost/tvbox/jsm/jsm.json"
+                "sourceUrl":"clan://localhost/tox/jsm/jsm.json"
         },
         {
                 "sourceName":"106号仓库",
-                "sourceUrl":"clan://localhost/tvbox/lines/lines.json"
+                "sourceUrl":"clan://localhost/tox/lines/lines.json"
         },
         {
                 "sourceName":"107号仓库",
-                "sourceUrl":"clan://localhost/tvbox/api/api.json"
+                "sourceUrl":"clan://localhost/tox/api/api.json"
         },
         {
                 "sourceName":"108号仓库",
-                "sourceUrl":"clan://localhost/tvbox/mao3/mao3.json"
+                "sourceUrl":"clan://localhost/tox/mao3/mao3.json"
         },
         {
                 "sourceName":"109号仓库",
-                "sourceUrl":"clan://localhost/tvbox/ZY/ZY.json"
+                "sourceUrl":"clan://localhost/tox/ZY/ZY.json"
         },
         {
                 "sourceName":"110号仓库",
@@ -442,15 +442,15 @@
         },
         {
                 "sourceName":"111号仓库",
-                "sourceUrl":"clan://localhost/tvbox/18CR/18CR.json"
+                "sourceUrl":"clan://localhost/tox/18CR/18CR.json"
         },
         {
                 "sourceName":"112号仓库",
-                "sourceUrl":"clan://localhost/tvbox/19/19.json"
+                "sourceUrl":"clan://localhost/tox/19/19.json"
         },
         {
                 "sourceName":"113号仓库",
-                "sourceUrl":"clan://localhost/tvbox/19/19.json"
+                "sourceUrl":"clan://localhost/tox/19/19.json"
         }
     ]
 }
