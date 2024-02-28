@@ -2,7 +2,7 @@
     "storeHouse":[
         {
                 "sourceName":"1号仓库",
-                "sourceUrl":"clan://localhost/tox/ttox/接口禁止贩卖/接口禁止贩卖.json"
+                "sourceUrl":"clan://localhost/tox/接口禁止贩卖/接口禁止贩卖.json"
         },
         {
                 "sourceName":"2号仓库",
